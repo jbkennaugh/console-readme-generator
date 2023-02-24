@@ -1,0 +1,23 @@
+{
+  "name": "console-readme-generator",
+  "version": "1.0.0",
+  "description": "A readme generator created using node.js that takes inputs from the user and generates a stylish readme file based on the inputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbkennaugh/console-readme-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbkennaugh/console-readme-generator/issues"
+  },
+  "homepage": "https://github.com/jbkennaugh/console-readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
+}
