@@ -75,13 +75,13 @@ function writeToFile(filename, data) {
 
 // function to initialize program
 function init() {
-    console.log("Welcome to the README generator!\n");
+    console.log("\nWelcome to the README generator!\n");
     inquirer.prompt(questions).then((answers) => {
         let filename = `./generated-READMEs/${answers.filename}.md`
 
-        console.log("Generating README file...");
+        console.log("\nGenerating README file...");
         writeToFile(filename, answers);
-        console.log("Readme file created!");
+        console.log("\nReadme file created!");
     });
 }
 

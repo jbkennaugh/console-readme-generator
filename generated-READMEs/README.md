@@ -1,4 +1,4 @@
-# README title
+# README Title
 
 ![GitHub License](https://img.shields.io/badge/license-MIT-red.svg)
 
