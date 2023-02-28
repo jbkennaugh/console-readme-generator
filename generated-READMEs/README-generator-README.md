@@ -1,4 +1,4 @@
-# README Title
+# README generator
 
 ![GitHub License](https://img.shields.io/badge/license-MIT-red.svg)
 
@@ -18,7 +18,7 @@
 
 
 ## Description
-None given.
+A node project that creates a custom readme file, with information given by the user based on various prompts
 
 
 ## Installation
@@ -26,11 +26,11 @@ No installation required.
 
 
 ## Usage
-No extra information necessary.
+Please ensure node is installed as well as the inquirer package
 
 
 ## License
-undefined
+MIT
 
 
 ## Contributing
@@ -42,6 +42,6 @@ None given.
 
 
 ## Questions
-My github profile can be found here: No username given.
+My github profile can be found here: jbkennaugh
 
-You can direct any questions to my email: No email address given.
+You can direct any questions to my email: joebkennaugh@gmail.com

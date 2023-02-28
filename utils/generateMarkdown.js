@@ -32,7 +32,7 @@ ${data.usage}
 
 
 ## License
-${data.license}
+${data.licence}
 
 
 ## Contributing
